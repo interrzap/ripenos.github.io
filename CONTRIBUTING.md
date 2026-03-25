@@ -7,8 +7,8 @@ This is an open-sourced project that accepts contributions via pull requests on 
 1. Fork this repository.
 2. Submit your commits in English ONLY.
 3. Request the pull request.
-4. Enter a short summary of the added links.
+4. Enter a summary of the added links.
 
 ## Next steps
 1. Then, for community purposes, please fill in this form: [Contributor's Approval form](https://forms.gle/1iCE6GHVEG9ssWYB6)
-2. Help us grow while sipping your tea ☕!
+2. Help us grow while sipping a tea ☕!
